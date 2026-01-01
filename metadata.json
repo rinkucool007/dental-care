@@ -1,0 +1,8 @@
+
+{
+  "name": "The Dental Care Lounge",
+  "description": "A premium, patient-focused dental clinic platform providing professional care, aesthetic dentistry, and orthodontics with integrated AI-powered consultation assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
